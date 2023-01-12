@@ -1,0 +1,17 @@
+{
+    "name": "yarandi/php8.1",
+    "authors": [
+        {
+            "name": "Hamed Yarandi",
+            "email": "hamed.yarandi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./src"
+        }
+    },
+    "require": {
+        "php": "^8.1"
+    }
+}
