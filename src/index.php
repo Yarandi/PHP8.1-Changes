@@ -16,5 +16,11 @@ ini_set('display_errors', 1);
 #------------------------------
 #      array unpacking
 #------------------------------
-require_once __DIR__.'/src/array_unpacking.php';
+#require_once __DIR__.'/src/array_unpacking.php';
+
+
+#------------------------------
+#     read only properties
+#------------------------------
+require_once __DIR__.'/src/read_only_properties.php';
 
