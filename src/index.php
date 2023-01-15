@@ -32,7 +32,14 @@ ini_set('display_errors', 1);
 #------------------------------
 #     array is list function
 #------------------------------
-require_once __DIR__.'/src/array_is_list_function.php';
+#require_once __DIR__.'/src/array_is_list_function.php';
+
+#------------------------------
+#     final class constants
+#------------------------------
+require_once __DIR__.'/src/final_class_constants.php';
+
+
 
 
 
