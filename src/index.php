@@ -22,5 +22,11 @@ ini_set('display_errors', 1);
 #------------------------------
 #     read only properties
 #------------------------------
-require_once __DIR__.'/src/read_only_properties.php';
+#require_once __DIR__.'/src/read_only_properties.php';
+
+#------------------------------
+#     intersection types
+#------------------------------
+require_once __DIR__.'/src/intersection_types.php';
+
 
