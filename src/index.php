@@ -29,4 +29,10 @@ ini_set('display_errors', 1);
 #------------------------------
 #require_once __DIR__.'/src/intersection_types.php';
 
+#------------------------------
+#     array is list function
+#------------------------------
+require_once __DIR__.'/src/array_is_list_function.php';
+
+
 
