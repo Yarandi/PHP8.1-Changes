@@ -27,6 +27,6 @@ ini_set('display_errors', 1);
 #------------------------------
 #     intersection types
 #------------------------------
-require_once __DIR__.'/src/intersection_types.php';
+#require_once __DIR__.'/src/intersection_types.php';
 
 
