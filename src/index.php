@@ -37,7 +37,12 @@ ini_set('display_errors', 1);
 #------------------------------
 #     final class constants
 #------------------------------
-require_once __DIR__.'/src/final_class_constants.php';
+#require_once __DIR__.'/src/final_class_constants.php';
+
+#------------------------------
+#     new in initializers
+#------------------------------
+#require_once __DIR__.'/src/new_in_initializers.php';
 
 
 

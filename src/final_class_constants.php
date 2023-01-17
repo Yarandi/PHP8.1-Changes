@@ -28,4 +28,4 @@ class subClass1 extends Math2
     public const PI = 4.13;
 }
 
-var_dump(subClass1::PI); #return error PI can not override final constant Math2::PI 
+var_dump(subClass1::PI); #return error PI can not override final constant Math2::PI x
